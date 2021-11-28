@@ -1,0 +1,30 @@
+{
+    "id":1,
+    "name":"eminem",
+    "Album":[
+        {
+            "id":1,
+            "title":"Recovery",
+            "artist":"Eminem",
+            "cover":"Recovery Cover",
+            "song":[
+                {
+                    "id":"1",
+                    "title":"Love the way You lie",
+                    "duration":120,
+                    "artis":"Eminem",
+                    "album":"Recovery",
+                    "genre":"Hip Hop"
+                },
+                {
+                    "id":"2",
+                    "title":"Space Bound",
+                    "duration":180,
+                    "artis":"Eminem",
+                    "album":"Recovery",
+                    "genre":"Hip Hop"
+                }
+            ]
+        }
+    ]
+}
